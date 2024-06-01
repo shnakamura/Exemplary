@@ -1,0 +1,9 @@
+displayName = Exemplary
+author = nakamurash
+version = 0.1
+
+hideResources = false
+hideCode = false
+
+includePDB = true
+includeSource = true

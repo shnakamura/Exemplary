@@ -1,0 +1,1 @@
+Exemplary is an open-source tModLoader mod designed to act as an alternative to ExampleMod.
